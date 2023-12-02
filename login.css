@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(pngtree-creative-synthesis-simple-book-education-and-training-background-image_219497.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    border: 5px solid green;
+    border-radius: 20px;
+    background-color: rgb(192, 255, 230);
+}
+input{
+    margin: 5px 0px;
+    height: 35px;
+    padding: 7px;
+    width: 200px;
+}
+button{
+    height:35px; 
+    width:200px;
+    margin: 5px 0px;
+    padding: 7px;
+    background-color: skyblue;
+    border: none;
+    border-radius: 5px;
+    color: #333;
+}
+button:hover{
+    background-color: #333;
+    color: skyblue;
+}
+h2{
+    color:black;
+    font-size: 100px;
+    text-align: center;
+}

@@ -1,0 +1,203 @@
+body{
+    background-image: url(book-curtain-house-book-pile.jpg);
+    
+    background-size: 110%;
+}
+.booksip{
+    font-size: 31px;
+}
+.span{
+    font-size: 31px;
+    text-decoration: underline;
+}
+
+
+.img2{
+    position: relative;
+    width: 264.25px;
+    left: 105px;
+}
+
+.figcaption{
+    position: absolute;
+    width: 264.25px;
+    height: 50px;
+    left: 149px;
+}
+.A{
+    color: red;
+    text-decoration: none;
+    font-size: 22px;
+}
+.hp{
+    position: absolute;
+    width: 264.25px;
+    height: 50px; 
+    left: 628px;
+    bottom: -38px;
+}
+.ph{
+    position: absolute;
+    color: red;
+    text-decoration: none;
+    font-size: 22px;  
+    bottom: 65px; 
+}
+.mr{
+    position: absolute;
+    width: 264.25px;
+    height: 50px; 
+    left: 1100px;
+    top: 720px;
+
+}
+.rm{
+    color: red;
+    text-decoration: none;
+    font-size: 22px;    
+}
+.rom{
+    position: absolute;
+    width: 264.25px;
+    height: 350px; 
+    left: 1100px;
+    bottom: 56px; 
+}
+.harry{
+    position: absolute;
+    margin-left: 58px;
+    top: 370px;
+}
+A:hover{
+    color: blue;
+}
+.qwerty{
+background-color: cadetblue;
+margin: 0;
+padding: 0;
+}
+.homes:hover{
+color: blue;
+
+}
+.vowel{
+margin-top: 40px;
+margin-left: 50px;
+}
+.books{
+text-decoration: none;
+color: black;
+}
+.books:hover{
+color: blue;
+}
+.u{
+display: flex;
+background-color: cadetblue;
+margin: 0;
+padding: 0;
+height: 120px;
+font-size: 30px;
+}
+.home{
+margin-left: 60px;
+margin-top: 40px;
+}
+.learn{
+font-size: 80px;
+margin-top: 13px;
+}
+.aboutus{
+margin-top: 40px;
+margin-left: 60px;
+}
+.us:hover{
+color: blue;
+}
+.bhupendrajogi{
+margin-top: 40px;
+margin-right: 10px;
+}
+.link{
+text-decoration: none;
+color: black;
+}
+.link:hover{
+color: blue;
+}
+.us{
+text-decoration: none;
+color: black;
+}
+.homes{
+text-decoration: none;
+color: black;
+}
+.harry{
+position: absolute;
+height: 350px;
+left: 570px;
+bottom: 57px;
+width: 264px;
+}
+.html{
+position: absolute;
+left: 152px;
+width: 264px;
+height: 349px;
+display: inline;
+}
+.hola{
+position: absolute;
+left: 152px;
+font-size: 19px;
+}
+.css{
+text-decoration: none;
+color: red;
+}
+
+.img{
+display: inline;
+position: absolute;
+left: 41%;
+top:800px;
+width: 267px;
+height: 349px;
+}
+.maha{
+display: inline;
+position: absolute;
+width: 267px;
+height: 349px;
+left: 1100px;
+top: 800px;
+}
+.k{
+position: absolute;
+top: -16px;
+}
+.login{
+    position: absolute;
+    right: 222px;
+    top: 49px;
+  }
+  .survey{
+    top: 49px;
+    position: absolute;
+    right: 70px;
+  }
+  .log{
+    text-decoration: none;
+    color: black;
+  }
+  .sur{
+    text-decoration: none;
+    color: black;
+  }
+  .log:hover{
+    color: blue;
+  }
+  .sur:hover{
+    color: blue;
+  }

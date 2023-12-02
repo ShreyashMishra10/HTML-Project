@@ -1,0 +1,121 @@
+body{
+    background-image: url(Book-Collecting-Tips-for-Beginners.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+.video{
+    margin-top: 5px;
+    margin-left: 20px;
+    height: 315px;
+    /* width: 300px; */
+}
+.p{
+    
+    margin-top: 50px;
+    margin-left: 625px;
+}
+.bold{
+    color:chartreuse;
+    font-size: 60px;
+    text-decoration: underline;
+}
+.who{
+    font-size: 25px;
+    color:aqua;
+    text-align: center;
+}
+.span{
+    text-decoration: none;
+    color: white;
+}
+.span:hover{
+    color: blue;
+}
+.qwerty{
+background-color: cadetblue;
+margin: 0;
+padding: 0;
+}
+.homes:hover{
+color: blue;
+
+}
+.vowel{
+margin-top: 40px;
+margin-left: 50px;
+}
+.books{
+text-decoration: none;
+color: black;
+}
+.books:hover{
+color: blue;
+}
+.u{
+display: flex;
+background-color: cadetblue;
+margin: 0;
+padding: 0;
+height: 120px;
+font-size: 30px;
+}
+.home{
+margin-left: 60px;
+margin-top: 40px;
+}
+.learn{
+font-size: 80px;
+margin-top: 13px;
+}
+.aboutus{
+margin-top: 40px;
+margin-left: 60px;
+}
+.us:hover{
+color: blue;
+}
+.bhupendrajogi{
+margin-top: 40px;
+margin-right: 10px;
+}
+.link{
+text-decoration: none;
+color: black;
+}
+.link:hover{
+color: blue;
+}
+.us{
+text-decoration: none;
+color: black;
+}
+.homes{
+text-decoration: none;
+color: black;
+}
+.login{
+    position: absolute;
+    right: 230px;
+    top: 38px;
+  }
+  .survey{
+    top: 38px;
+    position: absolute;
+    right: 70px;
+  }
+  .log{
+    text-decoration: none;
+    color: black;
+  }
+  .sur{
+    text-decoration: none;
+    color: black;
+  }
+  .log:hover{
+    color: blue;
+  }
+  .sur:hover{
+    color: blue;
+  }

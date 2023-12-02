@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    text-shadow: 1px;
+    text-size-adjust: 50px;
+    background-image:url(360_F_187497615_Vvhg4iJoElwbsl9RDbchSqntQGHxOfUj.jpg);    
+    background-size: cover;    
+    background-repeat: no-repeat;
+}
+h2{
+    size: 100px;
+}
+.container{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 150px;
+    padding: 20px;
+    border: 5px solid rgb(11, 0, 128);
+    border-radius: 20px;
+    background-color: rgb(97, 145, 145);
+}
+button:hover{
+    background-color: #946f6f;
+    color:aqua;
+}
